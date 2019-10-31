@@ -1,1 +1,5 @@
-oo-inheritance-code-along-online-web-pt-100719
+class Car < Vehicle
+  def go
+    "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
+  end
+end
